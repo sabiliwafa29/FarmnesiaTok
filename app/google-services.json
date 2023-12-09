@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "298692360087",
+    "firebase_url": "https://farmnesia-f8e92-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "farmnesia-f8e92",
+    "storage_bucket": "farmnesia-f8e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298692360087:android:1b7b68fdc5c02bf8df36d2",
+        "android_client_info": {
+          "package_name": "com.example.farmnesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNukOVUq0oCnyS48AxgXc4N3By8oEcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298692360087:android:7ca78a014580a544df36d2",
+        "android_client_info": {
+          "package_name": "com.example.farmnesiabuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNukOVUq0oCnyS48AxgXc4N3By8oEcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298692360087:android:a73465ed6b1df000df36d2",
+        "android_client_info": {
+          "package_name": "com.example.farmnesiatok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNukOVUq0oCnyS48AxgXc4N3By8oEcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298692360087:android:4205ae7e377c5091df36d2",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNukOVUq0oCnyS48AxgXc4N3By8oEcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298692360087-e6mvt8o8s9elmov89uh5alqo6ser43l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

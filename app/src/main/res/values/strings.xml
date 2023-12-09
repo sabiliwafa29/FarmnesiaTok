@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Farmnesia</string>
+    <string name="data_inform"> Data Information </string>
+    <string name="goat_data"> Goat\'s Information </string>
+    <string name="goat"> Goat\'s Weight  </string>
+    <string name="farmnesia">Farmnesia</string>
+    <string name="welcome">Welcome</string>
+    <string name="aplication_">Application for Monitoring Goat \nand the cage</string>
+    <string name="menu">Menu</string>
+    <string name="some_id">...</string>
+    <string name="cage_1">Kandang 1</string>
+    <string name="ctemp">32</string>
+    <string name="humidity">Humidity</string>
+    <string name="hmdt">60</string>
+    <string name="persen">%</string>
+    <string name="amount">Amount of Goat</string>
+    <string name="jumlah_domba">11</string>
+    <string name="berat_domba">68.5</string>
+    <string name="ble_connect">BLE Connection</string>
+    <string name="to_connecti">To Connecting BLE Tag with</string>
+    <string name="the_farmnes">The Farmnesia Application</string>
+    <string name="c">C</string>
+    <string name="O">O</string>
+    <string name="search_ble_">Search BLE Device Nearby</string>
+    <string name="near_you">Near you</string>
+    <string name="device_ble">1927</string>
+    <string name="device_ble2">12345</string>
+    <string name="device_ble3">123456</string>
+    <string name="ble_name">1927</string>
+    <string name="connected">Connected</string>
+    <string name="feature">Feature</string>
+    <string name="scan_the_nu">Scan The Number \nof Weight</string>
+    <string name="data_choice">Data Information</string>
+    <string name="scan_weight">Scan The Weight</string>
+    <string name="id_domba">Goat\'s ID</string>
+    <string name="tanggal_domba">10 November 2023</string>
+
+<!--    Untuk string ble bluetooth-->
+    <string name="devices">Bluetooth LE Devices</string>
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">Bluetooth permission is required by this App. Please grant in next dialog.</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission was permanently denied. You have to enable permission \"%s\" in App settings.</string>
+
+    <string name="location_permission_title">Location permission</string>
+    <string name="location_permission_grant">This app does not use location information, but scanning for Bluetooth LE devices requires this permission. Please grant in next dialog.</string>
+    <string name="location_permission_denied">As location permission has not been granted, this app cannot scan for Bluetooth LE devices.</string>
+
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+</resources>
